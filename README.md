@@ -1,6 +1,6 @@
 # FairLP
 
-This is the implementation for our paper "FairLP: Towards Fair Link Prediction on Social Network Graphs", which has been submitted to ICWSM 2022
+This is the implementation for our paper "FairLP: Towards Fair Link Prediction on Social Network Graphs", which is published in ICWSM 2022。
 
 ## For different link prediction models, run
 
